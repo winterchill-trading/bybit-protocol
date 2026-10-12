@@ -1,0 +1,1 @@
+(* REST account endpoint tests. *)
