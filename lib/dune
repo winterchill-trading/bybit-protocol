@@ -1,0 +1,6 @@
+(library
+ (name bybit_protocol)
+ (public_name bybit-protocol)
+ (libraries core cryptokit yojson ppx_yojson_conv_lib fixed-decimal exchange-core)
+ (preprocess
+  (pps ppx_jane ppx_yojson_conv)))
