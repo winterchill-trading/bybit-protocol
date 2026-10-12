@@ -2,7 +2,7 @@
 
 Bybit v5 wire types and JSON codecs (category `linear`, USDT perpetuals).
 
-Built with [OxCaml](https://oxcaml.org) and the Jane Street library stack (Base, Core, Async).
+Built with [OxCaml](https://oxcaml.org) and the Jane Street library stack (Base, Core).
 
 ## Build
 
